@@ -1,5 +1,9 @@
 [package]
 name = "panicdump"
+authors = ["Daniel P. Teberian"]
+description = "A simple crate, for dumping panic messages to RAM."
+repository = "https://github.com/LibertyOS-Development/panicdump/"
+categories = ["no-standard-library", "embedded-development"]
 version = "0.1.0"
 edition = "2018"
 
